@@ -1,0 +1,14 @@
+C:\Users\makov\Desktop\PR4\2.4.2\bin\Debug\net9.0\2.4.2.exe
+C:\Users\makov\Desktop\PR4\2.4.2\bin\Debug\net9.0\2.4.2.deps.json
+C:\Users\makov\Desktop\PR4\2.4.2\bin\Debug\net9.0\2.4.2.runtimeconfig.json
+C:\Users\makov\Desktop\PR4\2.4.2\bin\Debug\net9.0\2.4.2.dll
+C:\Users\makov\Desktop\PR4\2.4.2\bin\Debug\net9.0\2.4.2.pdb
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.AssemblyInfoInputs.cache
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.AssemblyInfo.cs
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.csproj.CoreCompileInputs.cache
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.dll
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\refint\2.4.2.dll
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.pdb
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\2.4.2.genruntimeconfig.cache
+C:\Users\makov\Desktop\PR4\2.4.2\obj\Debug\net9.0\ref\2.4.2.dll

@@ -1,0 +1,8 @@
+﻿<Window x:Class="ChildProcessApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Дочірній процес (Малювання)" Height="450" Width="800">
+    <Grid>
+        <Canvas Name="DrawingCanvas" Background="White"/>
+    </Grid>
+</Window>
